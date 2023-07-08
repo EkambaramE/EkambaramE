@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Ekambaram Eswaran 👋</h2>
 
-<h3 align="center">Senior iOS Engineer | Swift & SwiftUI Enthusiast | iOS Trainer | Passionate in Mobile App Development | Clean Architecture | Freelancer | Cross Platform</h3>
+<h3 align="center">Senior iOS Engineer | Swift & SwiftUI Enthusiast | iOS Trainer | Passionate about Mobile App Development | Clean Architecture | Freelancer | Cross Platform</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
